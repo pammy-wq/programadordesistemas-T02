@@ -1,0 +1,15 @@
+C:\Users\solar\source\repos\FORMULARIO2\FORMULARIO2\obj\Debug\net8.0\FORMULARIO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solar\source\repos\FORMULARIO2\FORMULARIO2\obj\Debug\net8.0\FORMULARIO2.AssemblyInfoInputs.cache
+C:\Users\solar\source\repos\FORMULARIO2\FORMULARIO2\obj\Debug\net8.0\FORMULARIO2.AssemblyInfo.cs
+C:\Users\solar\source\repos\FORMULARIO2\FORMULARIO2\obj\Debug\net8.0\FORMULARIO2.csproj.CoreCompileInputs.cache
+C:\Users\solar\source\repos\FORMULARIO2\FORMULARIO2\obj\Debug\net8.0\FORMULARIO2.sourcelink.json
+C:\Users\solar\source\repos\FORMULARIO2\FORMULARIO2\bin\Debug\net8.0\FORMULARIO2.exe
+C:\Users\solar\source\repos\FORMULARIO2\FORMULARIO2\bin\Debug\net8.0\FORMULARIO2.deps.json
+C:\Users\solar\source\repos\FORMULARIO2\FORMULARIO2\bin\Debug\net8.0\FORMULARIO2.runtimeconfig.json
+C:\Users\solar\source\repos\FORMULARIO2\FORMULARIO2\bin\Debug\net8.0\FORMULARIO2.dll
+C:\Users\solar\source\repos\FORMULARIO2\FORMULARIO2\bin\Debug\net8.0\FORMULARIO2.pdb
+C:\Users\solar\source\repos\FORMULARIO2\FORMULARIO2\obj\Debug\net8.0\FORMULARIO2.dll
+C:\Users\solar\source\repos\FORMULARIO2\FORMULARIO2\obj\Debug\net8.0\refint\FORMULARIO2.dll
+C:\Users\solar\source\repos\FORMULARIO2\FORMULARIO2\obj\Debug\net8.0\FORMULARIO2.pdb
+C:\Users\solar\source\repos\FORMULARIO2\FORMULARIO2\obj\Debug\net8.0\FORMULARIO2.genruntimeconfig.cache
+C:\Users\solar\source\repos\FORMULARIO2\FORMULARIO2\obj\Debug\net8.0\ref\FORMULARIO2.dll

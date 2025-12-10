@@ -1,0 +1,15 @@
+C:\Users\solar\source\repos\treinandoparaprova\treinandoparaprova\bin\Debug\net8.0\treinandoparaprova.exe
+C:\Users\solar\source\repos\treinandoparaprova\treinandoparaprova\bin\Debug\net8.0\treinandoparaprova.deps.json
+C:\Users\solar\source\repos\treinandoparaprova\treinandoparaprova\bin\Debug\net8.0\treinandoparaprova.runtimeconfig.json
+C:\Users\solar\source\repos\treinandoparaprova\treinandoparaprova\bin\Debug\net8.0\treinandoparaprova.dll
+C:\Users\solar\source\repos\treinandoparaprova\treinandoparaprova\bin\Debug\net8.0\treinandoparaprova.pdb
+C:\Users\solar\source\repos\treinandoparaprova\treinandoparaprova\obj\Debug\net8.0\treinandoparaprova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solar\source\repos\treinandoparaprova\treinandoparaprova\obj\Debug\net8.0\treinandoparaprova.AssemblyInfoInputs.cache
+C:\Users\solar\source\repos\treinandoparaprova\treinandoparaprova\obj\Debug\net8.0\treinandoparaprova.AssemblyInfo.cs
+C:\Users\solar\source\repos\treinandoparaprova\treinandoparaprova\obj\Debug\net8.0\treinandoparaprova.csproj.CoreCompileInputs.cache
+C:\Users\solar\source\repos\treinandoparaprova\treinandoparaprova\obj\Debug\net8.0\treinandoparaprova.sourcelink.json
+C:\Users\solar\source\repos\treinandoparaprova\treinandoparaprova\obj\Debug\net8.0\treinandoparaprova.dll
+C:\Users\solar\source\repos\treinandoparaprova\treinandoparaprova\obj\Debug\net8.0\refint\treinandoparaprova.dll
+C:\Users\solar\source\repos\treinandoparaprova\treinandoparaprova\obj\Debug\net8.0\treinandoparaprova.pdb
+C:\Users\solar\source\repos\treinandoparaprova\treinandoparaprova\obj\Debug\net8.0\treinandoparaprova.genruntimeconfig.cache
+C:\Users\solar\source\repos\treinandoparaprova\treinandoparaprova\obj\Debug\net8.0\ref\treinandoparaprova.dll
