@@ -1,0 +1,15 @@
+C:\Users\solar\source\repos\novosexercideentradaesaidaC#\novosexercideentradaesaidaC#\obj\Debug\net8.0\novosexercideentradaesaidaC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solar\source\repos\novosexercideentradaesaidaC#\novosexercideentradaesaidaC#\obj\Debug\net8.0\novosexercideentradaesaidaC#.AssemblyInfoInputs.cache
+C:\Users\solar\source\repos\novosexercideentradaesaidaC#\novosexercideentradaesaidaC#\obj\Debug\net8.0\novosexercideentradaesaidaC#.AssemblyInfo.cs
+C:\Users\solar\source\repos\novosexercideentradaesaidaC#\novosexercideentradaesaidaC#\obj\Debug\net8.0\novosexercideentradaesaidaC#.csproj.CoreCompileInputs.cache
+C:\Users\solar\source\repos\novosexercideentradaesaidaC#\novosexercideentradaesaidaC#\obj\Debug\net8.0\novosexercideentradaesaidaC#.sourcelink.json
+C:\Users\solar\source\repos\novosexercideentradaesaidaC#\novosexercideentradaesaidaC#\bin\Debug\net8.0\novosexercideentradaesaidaC#.exe
+C:\Users\solar\source\repos\novosexercideentradaesaidaC#\novosexercideentradaesaidaC#\bin\Debug\net8.0\novosexercideentradaesaidaC#.deps.json
+C:\Users\solar\source\repos\novosexercideentradaesaidaC#\novosexercideentradaesaidaC#\bin\Debug\net8.0\novosexercideentradaesaidaC#.runtimeconfig.json
+C:\Users\solar\source\repos\novosexercideentradaesaidaC#\novosexercideentradaesaidaC#\bin\Debug\net8.0\novosexercideentradaesaidaC#.dll
+C:\Users\solar\source\repos\novosexercideentradaesaidaC#\novosexercideentradaesaidaC#\bin\Debug\net8.0\novosexercideentradaesaidaC#.pdb
+C:\Users\solar\source\repos\novosexercideentradaesaidaC#\novosexercideentradaesaidaC#\obj\Debug\net8.0\novosexercideentradaesaidaC#.dll
+C:\Users\solar\source\repos\novosexercideentradaesaidaC#\novosexercideentradaesaidaC#\obj\Debug\net8.0\refint\novosexercideentradaesaidaC#.dll
+C:\Users\solar\source\repos\novosexercideentradaesaidaC#\novosexercideentradaesaidaC#\obj\Debug\net8.0\novosexercideentradaesaidaC#.pdb
+C:\Users\solar\source\repos\novosexercideentradaesaidaC#\novosexercideentradaesaidaC#\obj\Debug\net8.0\novosexercideentradaesaidaC#.genruntimeconfig.cache
+C:\Users\solar\source\repos\novosexercideentradaesaidaC#\novosexercideentradaesaidaC#\obj\Debug\net8.0\ref\novosexercideentradaesaidaC#.dll
