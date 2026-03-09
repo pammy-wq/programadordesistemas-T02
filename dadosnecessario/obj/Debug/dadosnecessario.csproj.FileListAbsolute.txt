@@ -1,0 +1,11 @@
+C:\Users\pamela.olemos\source\repos\dadosnecessario\bin\Debug\dadosnecessario.exe.config
+C:\Users\pamela.olemos\source\repos\dadosnecessario\bin\Debug\dadosnecessario.exe
+C:\Users\pamela.olemos\source\repos\dadosnecessario\bin\Debug\dadosnecessario.pdb
+C:\Users\pamela.olemos\source\repos\dadosnecessario\obj\Debug\dadosnecessario.csproj.AssemblyReference.cache
+C:\Users\pamela.olemos\source\repos\dadosnecessario\obj\Debug\dadosnecessario.Form1.resources
+C:\Users\pamela.olemos\source\repos\dadosnecessario\obj\Debug\dadosnecessario.Properties.Resources.resources
+C:\Users\pamela.olemos\source\repos\dadosnecessario\obj\Debug\dadosnecessario.csproj.GenerateResource.cache
+C:\Users\pamela.olemos\source\repos\dadosnecessario\obj\Debug\dadosnecessario.csproj.CoreCompileInputs.cache
+C:\Users\pamela.olemos\source\repos\dadosnecessario\obj\Debug\dadosnecessario.exe
+C:\Users\pamela.olemos\source\repos\dadosnecessario\obj\Debug\dadosnecessario.pdb
+C:\Users\pamela.olemos\source\repos\dadosnecessario\obj\Debug\dadosnecessario.exe.config

@@ -1,0 +1,15 @@
+C:\Users\pamela.olemos\source\repos\desafioana\bin\Debug\net8.0\desafioana.exe
+C:\Users\pamela.olemos\source\repos\desafioana\bin\Debug\net8.0\desafioana.deps.json
+C:\Users\pamela.olemos\source\repos\desafioana\bin\Debug\net8.0\desafioana.runtimeconfig.json
+C:\Users\pamela.olemos\source\repos\desafioana\bin\Debug\net8.0\desafioana.dll
+C:\Users\pamela.olemos\source\repos\desafioana\bin\Debug\net8.0\desafioana.pdb
+C:\Users\pamela.olemos\source\repos\desafioana\obj\Debug\net8.0\desafioana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamela.olemos\source\repos\desafioana\obj\Debug\net8.0\desafioana.AssemblyInfoInputs.cache
+C:\Users\pamela.olemos\source\repos\desafioana\obj\Debug\net8.0\desafioana.AssemblyInfo.cs
+C:\Users\pamela.olemos\source\repos\desafioana\obj\Debug\net8.0\desafioana.csproj.CoreCompileInputs.cache
+C:\Users\pamela.olemos\source\repos\desafioana\obj\Debug\net8.0\desafioana.sourcelink.json
+C:\Users\pamela.olemos\source\repos\desafioana\obj\Debug\net8.0\desafioana.dll
+C:\Users\pamela.olemos\source\repos\desafioana\obj\Debug\net8.0\refint\desafioana.dll
+C:\Users\pamela.olemos\source\repos\desafioana\obj\Debug\net8.0\desafioana.pdb
+C:\Users\pamela.olemos\source\repos\desafioana\obj\Debug\net8.0\desafioana.genruntimeconfig.cache
+C:\Users\pamela.olemos\source\repos\desafioana\obj\Debug\net8.0\ref\desafioana.dll

@@ -1,0 +1,11 @@
+C:\Users\pamela.olemos\source\repos\DeNumerosADiaSemanais\bin\Debug\DeNumerosADiaSemanais.exe.config
+C:\Users\pamela.olemos\source\repos\DeNumerosADiaSemanais\bin\Debug\DeNumerosADiaSemanais.exe
+C:\Users\pamela.olemos\source\repos\DeNumerosADiaSemanais\bin\Debug\DeNumerosADiaSemanais.pdb
+C:\Users\pamela.olemos\source\repos\DeNumerosADiaSemanais\obj\Debug\DeNumerosADiaSemanais.csproj.AssemblyReference.cache
+C:\Users\pamela.olemos\source\repos\DeNumerosADiaSemanais\obj\Debug\DeNumerosADiaSemanais.Form1.resources
+C:\Users\pamela.olemos\source\repos\DeNumerosADiaSemanais\obj\Debug\DeNumerosADiaSemanais.Properties.Resources.resources
+C:\Users\pamela.olemos\source\repos\DeNumerosADiaSemanais\obj\Debug\DeNumerosADiaSemanais.csproj.GenerateResource.cache
+C:\Users\pamela.olemos\source\repos\DeNumerosADiaSemanais\obj\Debug\DeNumerosADiaSemanais.csproj.CoreCompileInputs.cache
+C:\Users\pamela.olemos\source\repos\DeNumerosADiaSemanais\obj\Debug\DeNumerosADiaSemanais.exe
+C:\Users\pamela.olemos\source\repos\DeNumerosADiaSemanais\obj\Debug\DeNumerosADiaSemanais.pdb
+C:\Users\pamela.olemos\source\repos\DeNumerosADiaSemanais\obj\Debug\DeNumerosADiaSemanais.exe.config

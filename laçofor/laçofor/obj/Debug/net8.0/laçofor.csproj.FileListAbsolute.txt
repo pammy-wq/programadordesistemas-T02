@@ -1,0 +1,14 @@
+C:\Users\pamela.olemos\source\repos\laçofor\laçofor\obj\Debug\net8.0\laçofor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamela.olemos\source\repos\laçofor\laçofor\obj\Debug\net8.0\laçofor.AssemblyInfoInputs.cache
+C:\Users\pamela.olemos\source\repos\laçofor\laçofor\obj\Debug\net8.0\laçofor.AssemblyInfo.cs
+C:\Users\pamela.olemos\source\repos\laçofor\laçofor\obj\Debug\net8.0\laçofor.csproj.CoreCompileInputs.cache
+C:\Users\pamela.olemos\source\repos\laçofor\laçofor\bin\Debug\net8.0\laçofor.exe
+C:\Users\pamela.olemos\source\repos\laçofor\laçofor\bin\Debug\net8.0\laçofor.deps.json
+C:\Users\pamela.olemos\source\repos\laçofor\laçofor\bin\Debug\net8.0\laçofor.runtimeconfig.json
+C:\Users\pamela.olemos\source\repos\laçofor\laçofor\bin\Debug\net8.0\laçofor.dll
+C:\Users\pamela.olemos\source\repos\laçofor\laçofor\bin\Debug\net8.0\laçofor.pdb
+C:\Users\pamela.olemos\source\repos\laçofor\laçofor\obj\Debug\net8.0\laçofor.dll
+C:\Users\pamela.olemos\source\repos\laçofor\laçofor\obj\Debug\net8.0\refint\laçofor.dll
+C:\Users\pamela.olemos\source\repos\laçofor\laçofor\obj\Debug\net8.0\laçofor.pdb
+C:\Users\pamela.olemos\source\repos\laçofor\laçofor\obj\Debug\net8.0\laçofor.genruntimeconfig.cache
+C:\Users\pamela.olemos\source\repos\laçofor\laçofor\obj\Debug\net8.0\ref\laçofor.dll
