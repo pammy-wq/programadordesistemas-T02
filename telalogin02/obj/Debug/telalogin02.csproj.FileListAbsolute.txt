@@ -1,0 +1,11 @@
+C:\Users\pamela.olemos\source\repos\telalogin02\bin\Debug\telalogin02.exe.config
+C:\Users\pamela.olemos\source\repos\telalogin02\bin\Debug\telalogin02.exe
+C:\Users\pamela.olemos\source\repos\telalogin02\bin\Debug\telalogin02.pdb
+C:\Users\pamela.olemos\source\repos\telalogin02\obj\Debug\telalogin02.csproj.AssemblyReference.cache
+C:\Users\pamela.olemos\source\repos\telalogin02\obj\Debug\telalogin02.Properties.Resources.resources
+C:\Users\pamela.olemos\source\repos\telalogin02\obj\Debug\telalogin02.csproj.GenerateResource.cache
+C:\Users\pamela.olemos\source\repos\telalogin02\obj\Debug\telalogin02.csproj.CoreCompileInputs.cache
+C:\Users\pamela.olemos\source\repos\telalogin02\obj\Debug\telalogin02.exe
+C:\Users\pamela.olemos\source\repos\telalogin02\obj\Debug\telalogin02.pdb
+C:\Users\pamela.olemos\source\repos\telalogin02\obj\Debug\telalogin02.exe.config
+C:\Users\pamela.olemos\source\repos\telalogin02\obj\Debug\telalogin02.frmLogin.resources
