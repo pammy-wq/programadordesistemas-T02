@@ -1,0 +1,11 @@
+C:\Users\pamela.olemos\source\repos\SideBoard\bin\Debug\SideBoard.exe.config
+C:\Users\pamela.olemos\source\repos\SideBoard\bin\Debug\SideBoard.exe
+C:\Users\pamela.olemos\source\repos\SideBoard\bin\Debug\SideBoard.pdb
+C:\Users\pamela.olemos\source\repos\SideBoard\obj\Debug\SideBoard.csproj.AssemblyReference.cache
+C:\Users\pamela.olemos\source\repos\SideBoard\obj\Debug\SideBoard.Form1.resources
+C:\Users\pamela.olemos\source\repos\SideBoard\obj\Debug\SideBoard.Properties.Resources.resources
+C:\Users\pamela.olemos\source\repos\SideBoard\obj\Debug\SideBoard.csproj.GenerateResource.cache
+C:\Users\pamela.olemos\source\repos\SideBoard\obj\Debug\SideBoard.csproj.CoreCompileInputs.cache
+C:\Users\pamela.olemos\source\repos\SideBoard\obj\Debug\SideBoard.exe
+C:\Users\pamela.olemos\source\repos\SideBoard\obj\Debug\SideBoard.pdb
+C:\Users\pamela.olemos\source\repos\SideBoard\obj\Debug\SideBoard.exe.config
