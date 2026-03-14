@@ -29,16 +29,25 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmPictureBox));
+<<<<<<< HEAD
             this.pdComputador = new System.Windows.Forms.PictureBox();
+=======
+            this.pbComputador = new System.Windows.Forms.PictureBox();
+>>>>>>> upstream/main
             this.pbCidade = new System.Windows.Forms.PictureBox();
             this.btnVerImagem = new System.Windows.Forms.Button();
             this.pbAnexarImagem = new System.Windows.Forms.PictureBox();
             this.btnAnexar = new System.Windows.Forms.Button();
+<<<<<<< HEAD
             ((System.ComponentModel.ISupportInitialize)(this.pdComputador)).BeginInit();
+=======
+            ((System.ComponentModel.ISupportInitialize)(this.pbComputador)).BeginInit();
+>>>>>>> upstream/main
             ((System.ComponentModel.ISupportInitialize)(this.pbCidade)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbAnexarImagem)).BeginInit();
             this.SuspendLayout();
             // 
+<<<<<<< HEAD
             // pdComputador
             // 
             this.pdComputador.Image = ((System.Drawing.Image)(resources.GetObject("pdComputador.Image")));
@@ -54,6 +63,23 @@
             this.pbCidade.Location = new System.Drawing.Point(15, 167);
             this.pbCidade.Name = "pbCidade";
             this.pbCidade.Size = new System.Drawing.Size(318, 126);
+=======
+            // pbComputador
+            // 
+            this.pbComputador.Image = ((System.Drawing.Image)(resources.GetObject("pbComputador.Image")));
+            this.pbComputador.Location = new System.Drawing.Point(36, 12);
+            this.pbComputador.Name = "pbComputador";
+            this.pbComputador.Size = new System.Drawing.Size(407, 166);
+            this.pbComputador.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbComputador.TabIndex = 0;
+            this.pbComputador.TabStop = false;
+            // 
+            // pbCidade
+            // 
+            this.pbCidade.Location = new System.Drawing.Point(36, 213);
+            this.pbCidade.Name = "pbCidade";
+            this.pbCidade.Size = new System.Drawing.Size(407, 123);
+>>>>>>> upstream/main
             this.pbCidade.TabIndex = 1;
             this.pbCidade.TabStop = false;
             // 
@@ -62,9 +88,15 @@
             this.btnVerImagem.BackColor = System.Drawing.Color.Maroon;
             this.btnVerImagem.Font = new System.Drawing.Font("MS Gothic", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnVerImagem.ForeColor = System.Drawing.Color.Gold;
+<<<<<<< HEAD
             this.btnVerImagem.Location = new System.Drawing.Point(59, 311);
             this.btnVerImagem.Name = "btnVerImagem";
             this.btnVerImagem.Size = new System.Drawing.Size(231, 67);
+=======
+            this.btnVerImagem.Location = new System.Drawing.Point(131, 357);
+            this.btnVerImagem.Name = "btnVerImagem";
+            this.btnVerImagem.Size = new System.Drawing.Size(217, 64);
+>>>>>>> upstream/main
             this.btnVerImagem.TabIndex = 2;
             this.btnVerImagem.Text = "Ver Imagem";
             this.btnVerImagem.UseVisualStyleBackColor = false;
@@ -72,9 +104,15 @@
             // 
             // pbAnexarImagem
             // 
+<<<<<<< HEAD
             this.pbAnexarImagem.Location = new System.Drawing.Point(339, 12);
             this.pbAnexarImagem.Name = "pbAnexarImagem";
             this.pbAnexarImagem.Size = new System.Drawing.Size(189, 271);
+=======
+            this.pbAnexarImagem.Location = new System.Drawing.Point(528, 12);
+            this.pbAnexarImagem.Name = "pbAnexarImagem";
+            this.pbAnexarImagem.Size = new System.Drawing.Size(196, 240);
+>>>>>>> upstream/main
             this.pbAnexarImagem.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbAnexarImagem.TabIndex = 3;
             this.pbAnexarImagem.TabStop = false;
@@ -85,9 +123,15 @@
             this.btnAnexar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnAnexar.Font = new System.Drawing.Font("Garamond", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAnexar.ForeColor = System.Drawing.Color.Maroon;
+<<<<<<< HEAD
             this.btnAnexar.Location = new System.Drawing.Point(366, 299);
             this.btnAnexar.Name = "btnAnexar";
             this.btnAnexar.Size = new System.Drawing.Size(162, 67);
+=======
+            this.btnAnexar.Location = new System.Drawing.Point(528, 290);
+            this.btnAnexar.Name = "btnAnexar";
+            this.btnAnexar.Size = new System.Drawing.Size(196, 65);
+>>>>>>> upstream/main
             this.btnAnexar.TabIndex = 4;
             this.btnAnexar.Text = "Anexar";
             this.btnAnexar.UseVisualStyleBackColor = false;
@@ -97,15 +141,26 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(540, 450);
+=======
+            this.ClientSize = new System.Drawing.Size(800, 450);
+>>>>>>> upstream/main
             this.Controls.Add(this.btnAnexar);
             this.Controls.Add(this.pbAnexarImagem);
             this.Controls.Add(this.btnVerImagem);
             this.Controls.Add(this.pbCidade);
+<<<<<<< HEAD
             this.Controls.Add(this.pdComputador);
             this.Name = "frmPictureBox";
             this.Text = "Picture Box";
             ((System.ComponentModel.ISupportInitialize)(this.pdComputador)).EndInit();
+=======
+            this.Controls.Add(this.pbComputador);
+            this.Name = "frmPictureBox";
+            this.Text = "Picture Box";
+            ((System.ComponentModel.ISupportInitialize)(this.pbComputador)).EndInit();
+>>>>>>> upstream/main
             ((System.ComponentModel.ISupportInitialize)(this.pbCidade)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pbAnexarImagem)).EndInit();
             this.ResumeLayout(false);
@@ -114,7 +169,11 @@
 
         #endregion
 
+<<<<<<< HEAD
         private System.Windows.Forms.PictureBox pdComputador;
+=======
+        private System.Windows.Forms.PictureBox pbComputador;
+>>>>>>> upstream/main
         private System.Windows.Forms.PictureBox pbCidade;
         private System.Windows.Forms.Button btnVerImagem;
         private System.Windows.Forms.PictureBox pbAnexarImagem;

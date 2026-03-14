@@ -1,0 +1,11 @@
+C:\Users\ana.cscunha1\source\repos\alertas\obj\Debug\alertas.csproj.AssemblyReference.cache
+C:\Users\ana.cscunha1\source\repos\alertas\obj\Debug\alertas.Alertas.resources
+C:\Users\ana.cscunha1\source\repos\alertas\obj\Debug\alertas.csproj.GenerateResource.cache
+C:\Users\ana.cscunha1\source\repos\alertas\obj\Debug\alertas.csproj.CoreCompileInputs.cache
+C:\Users\ana.cscunha1\source\repos\alertas\bin\Debug\alertasnovo.exe.config
+C:\Users\ana.cscunha1\source\repos\alertas\bin\Debug\alertasnovo.exe
+C:\Users\ana.cscunha1\source\repos\alertas\bin\Debug\alertasnovo.pdb
+C:\Users\ana.cscunha1\source\repos\alertas\obj\Debug\alertasnovo.Properties.Resources.resources
+C:\Users\ana.cscunha1\source\repos\alertas\obj\Debug\alertasnovo.exe
+C:\Users\ana.cscunha1\source\repos\alertas\obj\Debug\alertasnovo.pdb
+C:\Users\ana.cscunha1\source\repos\alertas\obj\Debug\alertasnovo.exe.config
