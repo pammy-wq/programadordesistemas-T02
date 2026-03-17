@@ -1,0 +1,11 @@
+C:\Users\ana.cscunha1\source\repos\pesoideal\bin\Debug\pesoideal.exe.config
+C:\Users\ana.cscunha1\source\repos\pesoideal\bin\Debug\pesoideal.exe
+C:\Users\ana.cscunha1\source\repos\pesoideal\bin\Debug\pesoideal.pdb
+C:\Users\ana.cscunha1\source\repos\pesoideal\obj\Debug\pesoideal.csproj.AssemblyReference.cache
+C:\Users\ana.cscunha1\source\repos\pesoideal\obj\Debug\pesoideal.Form1.resources
+C:\Users\ana.cscunha1\source\repos\pesoideal\obj\Debug\pesoideal.Properties.Resources.resources
+C:\Users\ana.cscunha1\source\repos\pesoideal\obj\Debug\pesoideal.csproj.GenerateResource.cache
+C:\Users\ana.cscunha1\source\repos\pesoideal\obj\Debug\pesoideal.csproj.CoreCompileInputs.cache
+C:\Users\ana.cscunha1\source\repos\pesoideal\obj\Debug\pesoideal.exe
+C:\Users\ana.cscunha1\source\repos\pesoideal\obj\Debug\pesoideal.pdb
+C:\Users\ana.cscunha1\source\repos\pesoideal\obj\Debug\pesoideal.exe.config

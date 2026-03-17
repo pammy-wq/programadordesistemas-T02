@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36310.24 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "picturebox", "picturebox.csproj", "{F8E1D67D-F79B-4FFF-B1CE-1D9420E86110}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "picturebox", "picturebox.csproj", "{C7792DFB-A633-4E0B-BA02-DA4ACBDBB3E3}"
+>>>>>>> upstream/main
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +15,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 		{F8E1D67D-F79B-4FFF-B1CE-1D9420E86110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F8E1D67D-F79B-4FFF-B1CE-1D9420E86110}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8E1D67D-F79B-4FFF-B1CE-1D9420E86110}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8E1D67D-F79B-4FFF-B1CE-1D9420E86110}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{C7792DFB-A633-4E0B-BA02-DA4ACBDBB3E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7792DFB-A633-4E0B-BA02-DA4ACBDBB3E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7792DFB-A633-4E0B-BA02-DA4ACBDBB3E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7792DFB-A633-4E0B-BA02-DA4ACBDBB3E3}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> upstream/main
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
+<<<<<<< HEAD
 		SolutionGuid = {74B74031-23F5-4889-B32D-B0893E3E258D}
+=======
+		SolutionGuid = {28B88204-BDC5-4087-B59D-954806595703}
+>>>>>>> upstream/main
 	EndGlobalSection
 EndGlobal

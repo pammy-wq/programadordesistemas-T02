@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pamela.olemos\\source\\repos\\matriz\\",
+  "WorkspaceRootPath": "C:\\Users\\ana.cscunha1\\source\\repos\\matriz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69862545-DEF5-4229-9318-76BA093A6584}|matriz\\matriz.csproj|c:\\users\\pamela.olemos\\source\\repos\\matriz\\matriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69862545-DEF5-4229-9318-76BA093A6584}|matriz\\matriz.csproj|solutionrelative:matriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBA9D419-7CE6-4617-993D-79BA11A20CBE}|matriz.csproj|c:\\users\\ana.cscunha1\\source\\repos\\matriz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA9D419-7CE6-4617-993D-79BA11A20CBE}|matriz.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pamela.olemos\\source\\repos\\matriz\\matriz\\Program.cs",
-              "RelativeDocumentMoniker": "matriz\\Program.cs",
-              "ToolTip": "C:\\Users\\pamela.olemos\\source\\repos\\matriz\\matriz\\Program.cs",
-              "RelativeToolTip": "matriz\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ana.cscunha1\\source\\repos\\matriz\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ana.cscunha1\\source\\repos\\matriz\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T17:35:29.798Z",
+              "WhenOpened": "2026-02-04T17:35:59.62Z",
               "EditorCaption": ""
             }
           ]

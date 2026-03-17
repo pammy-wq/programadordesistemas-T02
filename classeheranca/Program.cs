@@ -5,58 +5,60 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
 namespace classeheranca
 {
-    //classe base (superclasse)
+    // Classe base (superclasse)
     internal class Animal
     {
-        //propriedade da classe animal
-        public string Nome {  get; set; }
+        // Propriedade da classe Animal
+        public string Nome { get; set; }
 
-        // metodo que sera sobrecarregado nas classes derivadas
+        // Método que será sobrecarregado nas classes derivadas
         public virtual void EmitirSom()
         {
-            Console.WriteLine("o animal emite um som");
+            Console.WriteLine("O animal emite um som.");
         }
     }
 
-    // calsse derivada (subclasse)
-    internal class Cachorro : Animal // aqui ela esta herdando as carecteristacas da classe original
+    // Classe derivada (subclasse)
+    internal class Cachorro : Animal
     {
-        // sobreescrevendo o metodo emitirSom
+        // Sobrescrevendo o método EmitirSom
         public override void EmitirSom()
         {
-            Console.WriteLine($"{Nome} late: AU AU!");
+            Console.WriteLine($"{Nome} late: Au Au!");
         }
     }
-    //outra classe derivada
+
+    // Outra classe derivada
     internal class Gato : Animal
     {
+        // Sobrescrevendo o método EmitirSom
         public override void EmitirSom()
         {
-            Console.WriteLine($"{Nome} mia: MIAU!");
+            Console.WriteLine($"{Nome} mia: Miau!");
         }
     }
 }
-internal class Program // basicmanete rode o programa
+
+internal class Program
 {
     static void Main(string[] args)
     {
-        // criando instancias das classes derivada
-        Animal meuCachorro = new Cachorro { Nome = "rex" };
+        // Criando instâncias das classes derivadas
+        Animal meuCachorro = new Cachorro { Nome = "Rex" };
         Animal meuGato = new Gato { Nome = "Felix" };
 
-        // chamando metodo emitirsom para cada animal
-        meuCachorro.EmitirSom(); // saida: rex late: auau
-        meuGato.EmitirSom(); // saida; felix mia; miau miau
+        // Chamando o método EmitirSom para cada animal
+        meuCachorro.EmitirSom();  // Saída: Rex late: Au Au!
+        meuGato.EmitirSom();      // Saída: Felix mia: Miau!
 
-        //ultilizando polimorfismo: array de animals
+        // Utilizando Polimorfismo: Array de animais
         Animal[] animais = { meuCachorro, meuGato };
 
         foreach (var animal in animais)
         {
-            animal.EmitirSom(); // cada obejto chama o metodo adequado de sua classe
+            animal.EmitirSom();  // Cada objeto chama o método adequado de sua classe
         }
     }
 }
