@@ -1,0 +1,12 @@
+C:\Users\pamela.olemos\source\repos\testandoShowHide\bin\Debug\testandoShowHide.exe.config
+C:\Users\pamela.olemos\source\repos\testandoShowHide\bin\Debug\testandoShowHide.exe
+C:\Users\pamela.olemos\source\repos\testandoShowHide\bin\Debug\testandoShowHide.pdb
+C:\Users\pamela.olemos\source\repos\testandoShowHide\obj\Debug\testandoShowHide.csproj.AssemblyReference.cache
+C:\Users\pamela.olemos\source\repos\testandoShowHide\obj\Debug\testandoShowHide.frmShowHide.resources
+C:\Users\pamela.olemos\source\repos\testandoShowHide\obj\Debug\testandoShowHide.Properties.Resources.resources
+C:\Users\pamela.olemos\source\repos\testandoShowHide\obj\Debug\testandoShowHide.csproj.GenerateResource.cache
+C:\Users\pamela.olemos\source\repos\testandoShowHide\obj\Debug\testandoShowHide.csproj.CoreCompileInputs.cache
+C:\Users\pamela.olemos\source\repos\testandoShowHide\obj\Debug\testandoShowHide.exe
+C:\Users\pamela.olemos\source\repos\testandoShowHide\obj\Debug\testandoShowHide.pdb
+C:\Users\pamela.olemos\source\repos\testandoShowHide\obj\Debug\testandoShowHide.exe.config
+C:\Users\pamela.olemos\source\repos\testandoShowHide\obj\Debug\testandoShowHide.frmHome.resources
