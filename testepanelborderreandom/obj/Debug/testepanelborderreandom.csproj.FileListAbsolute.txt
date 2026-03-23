@@ -1,0 +1,11 @@
+C:\Users\pamela.olemos\source\repos\testepanelborderreandom\bin\Debug\testepanelborderreandom.exe.config
+C:\Users\pamela.olemos\source\repos\testepanelborderreandom\bin\Debug\testepanelborderreandom.exe
+C:\Users\pamela.olemos\source\repos\testepanelborderreandom\bin\Debug\testepanelborderreandom.pdb
+C:\Users\pamela.olemos\source\repos\testepanelborderreandom\obj\Debug\testepanelborderreandom.csproj.AssemblyReference.cache
+C:\Users\pamela.olemos\source\repos\testepanelborderreandom\obj\Debug\testepanelborderreandom.Form1.resources
+C:\Users\pamela.olemos\source\repos\testepanelborderreandom\obj\Debug\testepanelborderreandom.Properties.Resources.resources
+C:\Users\pamela.olemos\source\repos\testepanelborderreandom\obj\Debug\testepanelborderreandom.csproj.GenerateResource.cache
+C:\Users\pamela.olemos\source\repos\testepanelborderreandom\obj\Debug\testepanelborderreandom.csproj.CoreCompileInputs.cache
+C:\Users\pamela.olemos\source\repos\testepanelborderreandom\obj\Debug\testepanelborderreandom.exe
+C:\Users\pamela.olemos\source\repos\testepanelborderreandom\obj\Debug\testepanelborderreandom.pdb
+C:\Users\pamela.olemos\source\repos\testepanelborderreandom\obj\Debug\testepanelborderreandom.exe.config
